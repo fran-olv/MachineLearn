@@ -1,5 +1,3 @@
-Instalação e Definicação das ferramentas:
-
 
 tabalho final: 
 escolher um dataset do site: https://archive.ics.uci.edu
@@ -7,3 +5,12 @@ para aplicar os modelos/algoritmos de Machine Learn.
 
 o que é um dataset?
 um conjunto de dados, pensando no que a gente está acostumado, como se fosse uma tabela de excel toda preenchida. 
+
+----------------------
+
+
+Primeira tarefa reproduzir o tutorial:
+https://machinelearningmastery.com/machine-learning-in-python-step-by-step/
+
+Mas antes, como instalar o ambiente de aprendizado:
+https://machinelearningmastery.com/setup-python-environment-machine-learning-deep-learning-anaconda/
